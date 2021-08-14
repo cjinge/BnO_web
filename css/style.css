@@ -291,18 +291,19 @@ footer .wrap .top .logo a img{display: block; height: 40px;}
 footer .wrap .top .info_menu{}
 footer .wrap .top .info_menu > ul{display: flex;}
 footer .wrap .top .info_menu > ul > li{width: 160px; margin: 0 10px;}
-footer .wrap .top .info_menu > ul > li > a{display: inline-block; font-size: 16px; line-height: 40px; font-weight: bold; color: #fafafa;}
+footer .wrap .top .info_menu > ul > li > p{font-size: 16px; line-height: 40px; font-weight: bold; color: #fafafa}
+/* footer .wrap .top .info_menu > ul > li > a{display: inline-block; } */
 
-footer .wrap .top .info_menu > ul > li:hover > a{color: #aaa;}
-footer .wrap .top .info_menu > ul > li:active > a{color: #151515;}}
+/* footer .wrap .top .info_menu > ul > li > a:hover{color: #aaa;}
+footer .wrap .top .info_menu > ul > li > a:active{color: #151515;} */
 
 
 footer .wrap .top .info_menu > ul > li > ul{}
 footer .wrap .top .info_menu > ul > li > ul > li{padding: 10px 0;}
-footer .wrap .top .info_menu > ul > li > ul > li > a{display: inline-block; font-size: 16px; line-height: 1; color: #fafafa; }
+footer .wrap .top .info_menu > ul > li > ul > li > a{display: inline-block; font-size: 16px; color: #fafafa; }
 
-footer .wrap .top .info_menu > ul > li > ul > li:hover > a{color: #aaa;}
-footer .wrap .top .info_menu > ul > li > ul > li:active > a{color: #151515;}
+footer .wrap .top .info_menu > ul > li > ul > li > a:hover{color: #aaa;}
+footer .wrap .top .info_menu > ul > li > ul > li > a:active{color: #151515;}
 
 
 footer .wrap .top .info_contact{width: 380px; padding: 40px 0; display: flex; justify-content: flex-end;}
