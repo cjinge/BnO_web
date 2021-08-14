@@ -292,10 +292,7 @@ footer .wrap .top .info_menu{}
 footer .wrap .top .info_menu > ul{display: flex;}
 footer .wrap .top .info_menu > ul > li{width: 160px; margin: 0 10px;}
 footer .wrap .top .info_menu > ul > li > p{font-size: 16px; line-height: 40px; font-weight: bold; color: #fafafa}
-/* footer .wrap .top .info_menu > ul > li > a{display: inline-block; } */
 
-/* footer .wrap .top .info_menu > ul > li > a:hover{color: #aaa;}
-footer .wrap .top .info_menu > ul > li > a:active{color: #151515;} */
 
 
 footer .wrap .top .info_menu > ul > li > ul{}
